@@ -21,4 +21,4 @@ module.exports = (sequelize, DataTypes) => {
     modelName: 'usuarios_roles',
   });
   return usuarios_roles;
-};
+}; 

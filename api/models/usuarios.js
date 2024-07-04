@@ -30,10 +30,10 @@ module.exports = (sequelize, DataTypes) => {
     sequelize,
     modelName: 'usuarios',
     defaultScope: {
-      attributes:{
-        exclude:['senha']
+      attributes: {
+        exclude: ['senha']
       }
     }
   });
   return usuarios;
-};
+}; 

@@ -121,4 +121,4 @@ class SegurancaService {
     }
 }
 
-module.exports = SegurancaService;
+module.exports = SegurancaService; 

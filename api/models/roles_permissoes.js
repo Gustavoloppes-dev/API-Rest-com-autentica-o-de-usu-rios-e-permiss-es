@@ -21,4 +21,4 @@ module.exports = (sequelize, DataTypes) => {
     modelName: 'roles_permissoes',
   });
   return roles_permissoes;
-};
+}; 
